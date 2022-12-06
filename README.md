@@ -1,4 +1,4 @@
-# martideas(Author: Abohi Evans Sunny)
+# martideas
 
 An application that lets you share ideas.
 
